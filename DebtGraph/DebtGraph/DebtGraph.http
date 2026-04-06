@@ -1,0 +1,6 @@
+@DebtGraph_HostAddress = http://localhost:5015
+
+GET {{DebtGraph_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
